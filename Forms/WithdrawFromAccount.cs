@@ -31,14 +31,20 @@ namespace AcmeBank.Forms
                 if (isCurrentAccount != null)
                 {
                     currentAccount.withdraw(Convert.ToInt64(tbAccountNumber.Text), Convert.ToInt32(numWithdrawlAmount.Value));
+                    MessageBox.Show("Withdrawl of " + numWithdrawlAmount.Value + " completed successfully.");
+                    ClearForm();
                 }
                 else if(isSavingsAccount != null)
                 {
                     savingsAccount.withdraw(Convert.ToInt64(tbAccountNumber.Text), Convert.ToInt32(numWithdrawlAmount.Value));
+                    MessageBox.Show("Withdrawl of " + numWithdrawlAmount.Value + " completed successfully.");
+                    ClearForm();
                 }
-
-                MessageBox.Show("Withdrawl of " + numWithdrawlAmount.Value + " completed successfully.");
-                ClearForm();
+                else
+                {
+                    MessageBox.Show("Account number not found.", "Invalid Account", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    throw new AccountNotFoundException(Convert.ToInt64(tbAccountNumber.Text));
+                }
             }
         }
 

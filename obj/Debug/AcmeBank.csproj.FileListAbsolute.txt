@@ -12,3 +12,17 @@ D:\Code\AcmeBank\AcmeBank\bin\Debug\Data\BankAccounts.xml
 D:\Code\AcmeBank\AcmeBank\obj\Debug\AcmeBank.Forms.WithdrawFromAccount.resources
 D:\Code\AcmeBank\AcmeBank\obj\Debug\AcmeBank.Forms.DepositToAccount.resources
 D:\Code\AcmeBank\AcmeBank\obj\Debug\AcmeBank.MainPortal.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\bin\Debug\Data\BankAccounts.xml
+D:\Code\AcmeBankSolutionFinal\AcmeBank\bin\Debug\AcmeBank.exe.config
+D:\Code\AcmeBankSolutionFinal\AcmeBank\bin\Debug\AcmeBank.exe
+D:\Code\AcmeBankSolutionFinal\AcmeBank\bin\Debug\AcmeBank.pdb
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.csprojAssemblyReference.cache
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.Forms.CreateAccount.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.Forms.DepositToAccount.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.MainPortal.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.Forms.WithdrawFromAccount.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.Properties.Resources.resources
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.csproj.GenerateResource.cache
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.csproj.CoreCompileInputs.cache
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.exe
+D:\Code\AcmeBankSolutionFinal\AcmeBank\obj\Debug\AcmeBank.pdb
