@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BankAccounts>
+  <BankAccount AccountType="Savings">
+    <ID>1</ID>
+    <CustomerNumber>1</CustomerNumber>
+    <Balance>2000</Balance>
+    <OverdraftAmount>0</OverdraftAmount>
+  </BankAccount>
+  <BankAccount AccountType="Savings">
+    <ID>2</ID>
+    <CustomerNumber>2</CustomerNumber>
+    <Balance>5000</Balance>
+    <OverdraftAmount>0</OverdraftAmount>
+  </BankAccount>
+  <BankAccount AccountType="Current">
+    <ID>3</ID>
+    <CustomerNumber>3</CustomerNumber>
+    <Balance>1000</Balance>
+    <OverdraftAmount>10000</OverdraftAmount>
+  </BankAccount>
+  <BankAccount AccountType="Current">
+    <ID>4</ID>
+    <CustomerNumber>4</CustomerNumber>
+    <Balance>-5000</Balance>
+    <OverdraftAmount>20000</OverdraftAmount>
+  </BankAccount>
+</BankAccounts>
